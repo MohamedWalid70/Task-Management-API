@@ -1,0 +1,19 @@
+{
+    "include": [
+        "app",
+        "tests"
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__"
+    ],
+    "ignore": [],
+    "defineConstant": {},
+    "typeCheckingMode": "basic",
+    "useLibraryCodeForTypes": true,
+    "autoImportCompletions": true,
+    "reportMissingImports": "warning",
+    "reportMissingTypeStubs": false,
+    "pythonVersion": "3.11",
+    "pythonPlatform": "Windows"
+} 
